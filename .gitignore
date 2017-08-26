@@ -1,0 +1,12 @@
+#build file
+build/
+devel/
+logs/
+
+#workspace files
+*.workspace
+*.workspace.user
+
+#catkin files
+.catkin_tools/
+.catkin_workspace
