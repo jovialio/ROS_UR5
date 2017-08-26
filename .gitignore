@@ -10,3 +10,7 @@ logs/
 #catkin files
 .catkin_tools/
 .catkin_workspace
+
+#dependencies
+src/universal_robot
+src/descartes
